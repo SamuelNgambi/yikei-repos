@@ -1,0 +1,23 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="32" height="32" rx="6" fill="#0A1128"/>
+  
+  <!-- Orbits -->
+  <g transform="rotate(35 16 16)">
+    <ellipse cx="16" cy="16" rx="13" ry="5" stroke="#FDB913" stroke-width="1.5" fill="none"/>
+    <!-- Small planet on orbit -->
+    <circle cx="3" cy="16" r="1.8" fill="#FDB913"/>
+  </g>
+  <g transform="rotate(-35 16 16)">
+    <ellipse cx="16" cy="16" rx="13" ry="5" stroke="#FDB913" stroke-width="1.5" fill="none"/>
+  </g>
+  
+  <!-- Central Core -->
+  <circle cx="16" cy="16" r="4" fill="#0A1128" stroke="#FDB913" stroke-width="1"/>
+  
+  <!-- Inner Detail (Binary representation) -->
+  <circle cx="15" cy="15" r="0.6" fill="#FDB913"/>
+  <circle cx="17" cy="17" r="0.6" fill="#FDB913"/>
+  <circle cx="16" cy="15.5" r="0.4" fill="#FDB913"/>
+  <circle cx="15.5" cy="17" r="0.4" fill="#FDB913"/>
+</svg>

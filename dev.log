@@ -1,0 +1,23 @@
+
+> yikei-website@0.1.0 dev
+> next dev
+
+▲ Next.js 16.1.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.1.30:3000
+- Environments: .env.local
+
+✓ Starting...
+✓ Ready in 367ms
+ GET / 200 in 274ms (compile: 115ms, render: 158ms)
+ GET / 200 in 78ms (compile: 1759µs, render: 76ms)
+ GET / 200 in 43ms (compile: 2ms, render: 40ms)
+ GET / 200 in 36ms (compile: 3ms, render: 33ms)
+ GET / 200 in 29ms (compile: 2ms, render: 27ms)
+ GET / 200 in 25ms (compile: 2ms, render: 22ms)
+ GET / 200 in 32ms (compile: 2ms, render: 29ms)
+ GET / 200 in 24ms (compile: 1494µs, render: 23ms)
+ GET / 200 in 24ms (compile: 1898µs, render: 22ms)
+ GET /services 200 in 431ms (compile: 416ms, render: 15ms)
+ GET / 200 in 31ms (compile: 5ms, render: 26ms)
+ GET / 200 in 65ms (compile: 4ms, render: 61ms)
